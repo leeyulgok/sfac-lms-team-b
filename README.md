@@ -11,10 +11,14 @@
 
 ## 설치 및 사용방법
 스나이퍼팩토리 학습관리스템은 Typescript(v5.2)와 TailwindCSS(v3.3.3) Next js 13 버전을 활용해서 제작이 되었습니다.\
-현재 레포지토리를 만들고 싶은 파일에 클론 코딩을 하면 됩니다.\
-> git clone https://github.com/leeyulgok/sfac-lms-team-b.git
+현재 레포지토리를 만들고 싶은 파일에 클론 코딩을 하면 됩니다.
+```
+git clone https://github.com/leeyulgok/sfac-lms-team-b.git
+```
 또한 자체적으로 라이브러리를 제작했기 때문에 npm 파일 또한 설치를 해주시면 됩니다.
-> npm i sfac-designkit-react
+```
+npm i sfac-designkit-react
+```
 마지막으로 스나이퍼팩토리의 Firebase를 사용하여 구축을 했기 때문에 활용하고 싶다면,
 따로 Firebase의 Firestore를 구축해서 사용하면 됩니다.
 
