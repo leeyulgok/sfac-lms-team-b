@@ -35,9 +35,24 @@ npm i sfac-designkit-react
 스나이퍼팩토리의 학습관리시스템의 핵심은 소통입니다. 일반적으로 관리자나 강사가 제공하여 수강생이 수강만 하는 것이 아닙니다.
 수강생은 언제든지 강의에 궁금한 점이 있으면 강의에 댓글을 남길 수 있습니다. 또한 수강생들은 커뮤니티를 구성하기 더 나은 학습 분위기를 조성하고 서로 선의의 경쟁을 할 수 있는 환경을 마련해줍니다.
 ![](image1.png)
-![](https://github.com/leeyulgok/sfac-lms-team-b/image2.png)
+
 
 ## 기여방법
+이번 프로젝트에서 강의장 페이지와 DB 설계를 담당했습니다.
 
+> https://app.eraser.io/workspace/kGgQYva1zAO0XZUtDvDc
+
+DB 설계는 프로젝트를 구성하는 팀의 한 명씩 담당했으며 eraser.io로 설계했습니다.
+![](https://github.com/sniperfactory-official/sfac-lms-team-b/assets/52587871/0859f362-a0e4-4fdf-a988-c628d4d58df0)
+
+강의장 페이지는 수강생이 강의를 수강할 수 있는 페이지로 총 4가지로 나뉩니다.
+> 1. 강의장 헤더 - 강의의 기본적인 정보
+> 2. 강의내용 - 영상 제공(ReactPlayer 사용)
+> 3. 강의장 네비게이션 - 이전, 다음 강의 이동
+> 4. 강의 커뮤니티 - 강의에 대한 댓글 등록
+
+![](image2.png)
+
+이 정도의 역할로 프로젝트에 기여를 했습니다.
 
 
