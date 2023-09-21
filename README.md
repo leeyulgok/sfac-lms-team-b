@@ -34,7 +34,8 @@ npm i sfac-designkit-react
 ## 기능 및 개요
 스나이퍼팩토리의 학습관리시스템의 핵심은 소통입니다. 일반적으로 관리자나 강사가 제공하여 수강생이 수강만 하는 것이 아닙니다.
 수강생은 언제든지 강의에 궁금한 점이 있으면 강의에 댓글을 남길 수 있습니다. 또한 수강생들은 커뮤니티를 구성하기 더 나은 학습 분위기를 조성하고 서로 선의의 경쟁을 할 수 있는 환경을 마련해줍니다.
-![]()
+![](https://github.com/leeyulgok/sfac-lms-team-b/image1.png)
+![](https://github.com/leeyulgok/sfac-lms-team-b/image2.png)
 
 ## 기여방법
 
