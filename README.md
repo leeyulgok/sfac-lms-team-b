@@ -5,9 +5,24 @@
 ![](https://github.com/sniperfactory-official/sfac-lms-team-b/assets/52587871/5b5df6d7-976c-4299-9ace-e9520072f6dd)
 
 ## 목차
-1. [설치 및 사용방법](#설치-및-사용방법)
+0. [기술스택 사용방법](기술스택-및-사용방법)
+1. [설치](#설치)
 2. [기능 및 개요](#기능-및-개요)
 3. [기여방법](#기여방법)
+
+## 기술스택 및 사용방법
+기술스택 
+|<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>|<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>|<img src="https://img.shields.io/badge/react-hook-form"/>|<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>|
+
+|:-:|:-:|:-:|:-:|
+|<img src="https://img.shields.io/badge/redux-toolkit"/>|<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>|<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>|<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>|
+
+사용방법
+**이메일 로그인 테스트 계정**
+|     | 관리자        | 수강생         |
+| --- | ------------- | -------------- |
+| ID  | test@test.com | test@naver.com |
+| PW  | test1234      | 123123         |
 
 ## 설치 및 사용방법
 스나이퍼팩토리 학습관리스템은 Typescript(v5.2)와 TailwindCSS(v3.3.3) Next js 13 버전을 활용해서 제작이 되었습니다.\
